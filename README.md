@@ -23,7 +23,7 @@
 - bip39: https://github.com/tyler-smith/go-bip39
 - hd: https://github.com/miguelmota/go-ethereum-hdwallet
 - webauthn: https://github.com/fxamacker/webauthn
-- keyring:    https://keys.pub/#install
+- keyring:    https://github.com/99designs/keyring
 - memguard: https://github.com/awnumar/memguard
 - bls: https://github.com/Project-Arda/bgls
 - tss:  https://github.com/Turing-Chain/TSSKit-Threshold-Signature-Scheme-Toolkit/blob/master/README.md
