@@ -24,3 +24,4 @@
 - hd: https://github.com/miguelmota/go-ethereum-hdwallet
 - webauthn: https://github.com/fxamacker/webauthn
 - safetynet:    
+- golang-wasm: https://gist.github.com/molekilla/fc38dd421f214c0765b18d8b9518bf63
