@@ -16,3 +16,11 @@
 - libgodium: https://github.com/ArteMisc/libgodium
 - jose https://github.com/square/go-jose
 - tink: https://github.com/google/tink/tree/master/experimental
+- cbor: https://github.com/fxamacker/cbor
+- nacl: https://github.com/kevinburke/nacl
+- themis: https://github.com/cossacklabs/themis
+- zkproofs: https://github.com/ing-bank/zkrp
+- bip39: https://github.com/tyler-smith/go-bip39
+- hd: https://github.com/miguelmota/go-ethereum-hdwallet
+- webauthn: https://github.com/fxamacker/webauthn
+- safetynet:    
