@@ -34,3 +34,20 @@
 - rosetta: https://www.rosetta-api.org/docs/rosetta_sdk_go.html
 -  https://leanpub.com/gocrypto/read
 - golang-wasm: https://gist.github.com/molekilla/fc38dd421f214c0765b18d8b9518bf63
+
+# 1
+xdv refactor
+curve elliptic con golang - Go WASM - typescript/javascript // speed
+
+# xdv new things
+https://github.com/binance-chain/tss-lib#how-to-use-this-securely
+https://github.com/fxamacker/webauthn
+https://github.com/ing-bank/zkrp
+rosetta
+
+# backlog
+
+# 2
+quorum signature, BLS TSSL  // quorum
+x509 golang to wasamble     // ca ecdsa
+
