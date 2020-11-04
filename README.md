@@ -2,10 +2,9 @@
 
 ## Languages
 
-- Main: Go
-- Layer bindings: WASM
-- UI: Vue, Flutter
-- Smart Contract: AssemblyScript
+- **Main**: Go, Dart, Javascript, Typescript
+- **UI**: React, Flutter
+- **Smart Contract**: Solidity
 
 ## XDV V2
 
