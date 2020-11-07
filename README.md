@@ -8,12 +8,24 @@
 
 ## XDV V2
 
+### IPFS
+
+- files
+- keys
+- name
+- object
+
 
 ### XDV V2 - Binding Edition
 
 ## Dart
 
 - Jose (JWT, JWS, JWK, ...): https://pub.dev/packages/jose
+- QR
+- https://pub.dev/packages/flutter_safetynet_attestation
+- https://pub.dev/packages/restio
+-  https://pub.dev/packages/flutter_data
+- IPFS: https://github.com/ipfs/js-ipfs/tree/master/docs/core-api
 - pdf: https://pub.dev/packages/pdf
 - Secure Storage (keychain): https://pub.dev/packages/flutter_secure_storage
 - Secure Storage (keychain, biometric): https://pub.dev/packages/biometric_storage
