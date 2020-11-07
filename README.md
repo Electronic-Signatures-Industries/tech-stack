@@ -11,8 +11,11 @@
 
 ### XDV V2 - Binding Edition
 
-#### Cryptography
-- miracl - WASM
+## Dart
+
+- HD Wallet: https://pub.dev/packages/web3dart
+- Cryptography, ECDSA, RSA, PKCS#11 & TSS: Botan in  https://github.com/Electronic-Signatures-Industries/library-bindings
+
 
 #### Blockchain and HD Wallet
 - trust wallet - C
