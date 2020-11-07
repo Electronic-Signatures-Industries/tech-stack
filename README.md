@@ -13,7 +13,15 @@
 
 ## Dart
 
+- Jose (JWT, JWS, JWK, ...): https://pub.dev/packages/jose
+- pdf: https://pub.dev/packages/pdf
+- Secure Storage (keychain): https://pub.dev/packages/flutter_secure_storage
+- Secure Storage (keychain, biometric): https://pub.dev/packages/biometric_storage
 - HD Wallet: https://pub.dev/packages/web3dart
+- cbor: https://pub.dev/packages/cbor
+- threads: https://pub.dev/packages/threads_client
+- x509: https://pub.dev/packages/x509
+- inappwebview: https://pub.dev/packages/flutter_inappwebview
 - Cryptography, ECDSA, RSA, PKCS#11 & TSS: Botan in  https://github.com/Electronic-Signatures-Industries/library-bindings
 
 
