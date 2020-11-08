@@ -34,7 +34,7 @@
 - threads: https://pub.dev/packages/threads_client
 - x509: https://pub.dev/packages/x509
 - inappwebview: https://pub.dev/packages/flutter_inappwebview
-- Cryptography, ECDSA, RSA: https://pub.dev/packages/pointycastle
+- Cryptography, ECDSA, RSA: https://pub.dev/packages/pointycastle, and https://pub.dev/packages/cryptography
 
 #### Blockchain and HD Wallet
 - trust wallet - C
