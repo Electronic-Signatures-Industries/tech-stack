@@ -34,8 +34,7 @@
 - threads: https://pub.dev/packages/threads_client
 - x509: https://pub.dev/packages/x509
 - inappwebview: https://pub.dev/packages/flutter_inappwebview
-- Cryptography, ECDSA, RSA, PKCS#11 & TSS: Botan in  https://github.com/Electronic-Signatures-Industries/library-bindings
-
+- Cryptography, ECDSA, RSA: https://pub.dev/packages/pointycastle
 
 #### Blockchain and HD Wallet
 - trust wallet - C
